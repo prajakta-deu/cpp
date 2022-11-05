@@ -56,15 +56,7 @@ const Services=()=>{
                 </div>
               
             </div>
-         
-          
-         
-        </div>
-    </div>
-
-   
-        
-        <div class="row mb-5">
+            <div class="row mb-5">
             <div class="col-12 col-sm-6 col-md-3 m-auto">
                
                 <div class="card shadow">
@@ -96,13 +88,16 @@ const Services=()=>{
                         </p>
                     </div>
                 </div>
-              
             </div>
-   
-           
+        </div>
           
          
         </div>
+    </div>
+
+   
+        
+       
    
      
         </>

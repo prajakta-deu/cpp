@@ -5,7 +5,7 @@ const Register=()=>
 {
     return(
         <>
-<div className="regi-page mb-3">
+<div className="regi-page">
     
     
 

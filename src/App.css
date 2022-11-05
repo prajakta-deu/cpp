@@ -97,6 +97,15 @@
 /* services */
  @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 
+ 
+
+
+ 
+
+ .row{
+  margin-top: 150px;
+ }
+
 * {
   margin: 0px;
   padding: 0px;
@@ -136,9 +145,10 @@
   color: white;
 }
 .container-fluid {
-  background-image: url("https://i.pinimg.com/originals/d1/40/ee/d140ee99255082f1e892d7fa1457fc8a.jpg");
+  /* background-image: url("https://tse4.mm.bing.net/th?id=OIP.ib9MqPxtncSqSIqIiWXDnwHaEK&pid=Api&P=0"  )style={{height:"500px"}}; */
  
-  height: 1000px; 
+  width: 100%;
+  height: 100%;
   background-position: center; 
   background-repeat: no-repeat;
   background-size: cover;

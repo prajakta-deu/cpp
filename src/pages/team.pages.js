@@ -22,7 +22,7 @@ const Team=()=>{
                         <img class="img-fluid" src="jape.jpg" alt="trainer-img" />
                         <ul>
                             <li>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-twitter "></i></a>
                             </li>
                             <li>
                                 <a href="#"><i class="fa fa-camera"></i></a>
@@ -33,6 +33,7 @@ const Team=()=>{
                             <li>
                                 <a href="#"><i class="fa fa-life-ring"></i></a>
                             </li>
+                            
                         </ul>
                     </div>
                     <div class="spk-info">

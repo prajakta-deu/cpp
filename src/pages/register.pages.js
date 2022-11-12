@@ -36,6 +36,8 @@ const Register=()=>
        </div>
 
        <button className="btn btn-primary mb-3 mt-3" >Register</button>
+       <button className="btn btn-secondary mb-3 mt-3" >Log in</button>
+
 
 
    </div>

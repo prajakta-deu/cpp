@@ -1,7 +1,21 @@
 const Bday=()=>{
     return(
         <>
-        A birthday is a special time to celebrate the anniversary of your born day. To all the doting parents 
+        <main>
+  <h1>Javascriptless Before/After Slider</h1>
+
+  <h3>
+    A simple html/css only before/after slider by <a target="_blank" href="https://twitter.com/Matt_R_Steele">@Matt_R_Steele</a>
+  </h3>
+  
+  <p>Use the black box below to move the slider (refresh to see a new image)</p>
+
+  <div class="container">
+    <div></div>
+  </div>
+  <footer>All images provided by <a href="http://placeimg.com" target="_blank">placeimg.com</a></footer>
+</main>
+        {/* A birthday is a special time to celebrate the anniversary of your born day. To all the doting parents 
         and children, celebrate yet another happiest day with the most sparkling party you can ever imagine.
         After all, who wouldn't want to recreate the juvenile magic with all the confetti, balloons, cakes, music, 
         lip-smacking food and other flavours of entertainment?
@@ -20,7 +34,7 @@ const Bday=()=>{
          <br/>
          <br/>
          <br/>
-         <br/>
+         <br/> */}
         </>
     )
 }

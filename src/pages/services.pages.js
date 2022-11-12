@@ -3,15 +3,6 @@ const Services=()=>{
     return(
         <>
 
-      
-
-
-<View style={{flex:1,backgroundColor:"#fff"}}>
-  <View style={{flex:1,backgroundColor:"green", borderRadius:10}}>
-  //Place your components here
-  </View>
-</View>
-         
       <div class="container-fluid">
       <div class=" half header">
         <h1 class="text-center mt-5 display-3 fw-bold"> <span class="theme-text">Our Services<br/></span> </h1>
